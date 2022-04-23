@@ -1,0 +1,29 @@
+.heading {
+    font-family: 'Brush Script MT', cursive;
+    color: rgb(208, 166, 42);
+}
+
+.heading.one {
+    text-align: center;
+    font-size: 60px;
+}
+
+.heading.two {
+    font-size: 45px;
+}
+
+p,
+.link {
+    font-family: cursive;
+    color: rgb(67, 67, 117);
+    font-size: 20px;
+}
+
+.link {
+    font-size: 15px;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
