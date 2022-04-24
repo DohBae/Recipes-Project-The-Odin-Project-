@@ -24,3 +24,8 @@ p,
     color: rgb(67, 67, 117);
     font-size: 20px;
 }
+
+img {
+    height: 300px;
+    width: auto;
+}
