@@ -1,0 +1,31 @@
+h1,
+h4,
+h5 {
+    font-family: 'Brush Script MT', cursive;
+    color: rgb(208, 166, 42);
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h4 {
+    font-size: 50px;
+}
+
+h5 {
+    font-size: 45px;
+}
+
+p,
+.unordered,
+.ordered {
+    font-family: cursive;
+    color: rgb(67, 67, 117);
+    font-size: 20px;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
